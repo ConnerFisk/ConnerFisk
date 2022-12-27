@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Conner</h1>
 <h3 align="center">Computer Science Major, FinTech Minor | University of Utah Honors College</h3>
 
-- 👨‍💻 View my website here [https://connerfisk.com/](https://connerfisk.com/)
+- 👨‍💻 View my website [https://connerfisk.com/](https://connerfisk.com/)
 
 - 📫 How to reach me **fiskconner@gmail.com**
 
