@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Conner</h1>
-<h3 align="center">Computer Science Major, Fintech Minor, Math Minor | University of Utah Honors College</h3>
+<h3 align="center">Software Engineer at BILL | Graduate of the University of Utah Honors College (Computer Science Major, Fintech Minor, Math Minor)</h3>
 
 - 👨‍💻 View my website [https://connerfisk.com/](https://connerfisk.com/)
 
