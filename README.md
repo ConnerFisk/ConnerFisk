@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Conner</h1>
 <h3 align="center">MSc Quantum Science and Technology at Columbia | Former Software Engineer at BILL | Graduate of the University of Utah Honors College (Computer Science Major, Fintech Minor, Math Minor)</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">View more on my LinkedIn:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/connerfisk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connerfisk" height="30" width="40" /></a>
 </p>
